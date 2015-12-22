@@ -1,0 +1,7 @@
+C 	K 	F 	 
+-12.2222C	260.928K	10F	
+515.85C	789K	960.53F	
+23C	296.15K	73.4F	
+
+Maximum temperature is: 789K
+Mid temperature is: 448.693K

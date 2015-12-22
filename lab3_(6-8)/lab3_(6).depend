@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1445458900 source:d:\Учёба\5 семестр\С++\lab3\lab3_(6)\6.cpp
+	"sdt.h"
+	"convert.h"
+
+1441352286 d:\Учёба\5 семестр\С++\lab3\lab3_(6)\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1445458966 d:\Учёба\5 семестр\С++\lab3\lab3_(6)\convert.h
+
+1445458753 source:d:\Учёба\5 семестр\С++\lab3\lab3_(6)\convert.cpp
+	"sdt.h"
+	"convert.h"
+
+1445458900 source:d:\Учёба\5 семестр\С++\lab3\lab3_(6-8)\6.cpp
+	"sdt.h"
+	"convert.h"
+
+1441352286 d:\Учёба\5 семестр\С++\lab3\lab3_(6-8)\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1445982042 d:\Учёба\5 семестр\С++\lab3\lab3_(6-8)\convert.h
+
+1445459208 source:d:\Учёба\5 семестр\С++\lab3\lab3_(6-8)\convert.cpp
+	"sdt.h"
+	"convert.h"
+
+1445458900 source:d:\Универ\5 сем\ТП\lab3\lab3\lab3_(6-8)\6.cpp
+	"sdt.h"
+	"convert.h"
+
+1441352286 d:\Универ\5 сем\ТП\lab3\lab3\lab3_(6-8)\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1445982042 d:\Универ\5 сем\ТП\lab3\lab3\lab3_(6-8)\convert.h
+
+1445459208 source:d:\Универ\5 сем\ТП\lab3\lab3\lab3_(6-8)\convert.cpp
+	"sdt.h"
+	"convert.h"
+

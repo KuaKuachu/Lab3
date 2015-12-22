@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1445548960 source:d:\Учёба\5 семестр\С++\lab3\lab3_10\10_main.cpp
+	"sdt.h"
+	"convert.h"
+
+1441352286 d:\Учёба\5 семестр\С++\lab3\lab3_10\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1445548638 d:\Учёба\5 семестр\С++\lab3\lab3_10\convert.h
+	"sdt.h"
+
+1445519713 source:d:\Учёба\5 семестр\С++\lab3\lab3_10\convert.cpp
+	"sdt.h"
+	"convert.h"
+
+1445549540 source:d:\Учёба\5 семестр\С++\lab3\lab3_10\structure.cpp
+	"convert.h"
+	"sdt.h"
+
+1445519713 source:d:\Учёба\5 семестр\С++\lab3\lab3_(10-14)\convert.cpp
+	"sdt.h"
+	"convert.h"
+
+1441352286 d:\Учёба\5 семестр\С++\lab3\lab3_(10-14)\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1446047607 d:\Учёба\5 семестр\С++\lab3\lab3_(10-14)\convert.h
+	"sdt.h"
+
+1446047539 source:d:\Учёба\5 семестр\С++\lab3\lab3_(10-14)\10_main.cpp
+	"sdt.h"
+	"convert.h"
+
+1450743095 source:d:\Универ\5 сем\ТП\lab3\lab3\lab3_(10-14)\convert.cpp
+	"sdt.h"
+	"convert.h"
+
+1441352286 d:\Универ\5 сем\ТП\lab3\lab3\lab3_(10-14)\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1450743109 d:\Универ\5 сем\ТП\lab3\lab3\lab3_(10-14)\convert.h
+	"sdt.h"
+
+1450742719 source:d:\Универ\5 сем\ТП\lab3\lab3\lab3_(10-14)\10_main.cpp
+	"sdt.h"
+	"convert.h"
+
+1450742805 source:d:\Универ\5 сем\ТП\lab3\lab3\lab3_(10-14)\structure.cpp
+	"convert.h"
+	"sdt.h"
+
+1450742719 source:f:\А-01-13\5 sem_fedorova\lab3\lab3_(10-14)\10_main.cpp
+	"sdt.h"
+	"convert.h"
+
+1441352286 f:\А-01-13\5 sem_fedorova\lab3\lab3_(10-14)\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1450743109 f:\А-01-13\5 sem_fedorova\lab3\lab3_(10-14)\convert.h
+	"sdt.h"
+
+1450743095 source:f:\А-01-13\5 sem_fedorova\lab3\lab3_(10-14)\convert.cpp
+	"sdt.h"
+	"convert.h"
+
+1450742805 source:f:\А-01-13\5 sem_fedorova\lab3\lab3_(10-14)\structure.cpp
+	"convert.h"
+	"sdt.h"
+

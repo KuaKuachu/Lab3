@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1445511251 source:d:\Учёба\5 семестр\С++\lab3\lab3_9\convert.cpp
+	"sdt.h"
+	"convert.h"
+
+1441352286 d:\Учёба\5 семестр\С++\lab3\lab3_9\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1445513000 d:\Учёба\5 семестр\С++\lab3\lab3_9\convert.h
+
+1445118636 d:\Учёба\5 семестр\С++\lab3\lab3_9\structure.h
+
+1445512618 source:d:\Учёба\5 семестр\С++\lab3\lab3_9\9_main.cpp
+	"sdt.h"
+	"convert.h"
+
+1445513000 source:d:\Учёба\5 семестр\С++\lab3\lab3_9\structure.cpp
+	"convert.h"
+	"sdt.h"
+
+1445511251 source:d:\Универ\5 сем\ТП\lab3\lab3\lab3_(9)\convert.cpp
+	"sdt.h"
+	"convert.h"
+
+1441352286 d:\Универ\5 сем\ТП\lab3\lab3\lab3_(9)\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1445983072 d:\Универ\5 сем\ТП\lab3\lab3\lab3_(9)\convert.h
+
+1445513000 source:d:\Универ\5 сем\ТП\lab3\lab3\lab3_(9)\structure.cpp
+	"convert.h"
+	"sdt.h"
+
